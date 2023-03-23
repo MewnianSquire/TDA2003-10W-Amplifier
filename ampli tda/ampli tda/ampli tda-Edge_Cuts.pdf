@@ -1,0 +1,669 @@
+%PDF-1.5
+%ÄÅÇÉ
+3 0 obj
+<< /Length 4 0 R /Filter /FlateDecode >>
+stream
+x⁄mãA
+Ä@Ô˚äæ†t◊ÿ÷ı	—ãøÔ äÇJ(§ìDXƒ…©«é+EÍÚÕ%°m∫LﬂísÖ“>Ÿ1gÉ§‹FDe§®µaß5â¨7Yn∏É-ì≤yˇœbT+%˝
+endstream
+endobj
+4 0 obj
+103
+endobj
+28 0 obj
+[5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R]
+endobj
+29 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 3 0 R
+/Annots 28 0 R>>
+endobj
+30 0 obj
+<</S /GoTo /D [29 0 R /Fit]
+>>
+endobj
+33 0 obj
+<</S /GoTo /D [29 0 R /FitR 391 439 436 348]
+>>
+endobj
+35 0 obj
+<</S /GoTo /D [29 0 R /FitR 468 345 503 331]
+>>
+endobj
+37 0 obj
+<</S /GoTo /D [29 0 R /FitR 500 349 554 321]
+>>
+endobj
+39 0 obj
+<</S /GoTo /D [29 0 R /FitR 500 466 554 439]
+>>
+endobj
+41 0 obj
+<</S /GoTo /D [29 0 R /FitR 284 348 337 320]
+>>
+endobj
+43 0 obj
+<</S /GoTo /D [29 0 R /FitR 283 466 337 439]
+>>
+endobj
+45 0 obj
+<</S /GoTo /D [29 0 R /FitR 401 408 438 379]
+>>
+endobj
+47 0 obj
+<</S /GoTo /D [29 0 R /FitR 505 420 579 363]
+>>
+endobj
+49 0 obj
+<</S /GoTo /D [29 0 R /FitR 339 357 352 329]
+>>
+endobj
+51 0 obj
+<</S /GoTo /D [29 0 R /FitR 373 463 401 449]
+>>
+endobj
+53 0 obj
+<</S /GoTo /D [29 0 R /FitR 370 357 383 329]
+>>
+endobj
+55 0 obj
+<</S /GoTo /D [29 0 R /FitR 452 403 479 390]
+>>
+endobj
+57 0 obj
+<</S /GoTo /D [29 0 R /FitR 488 421 501 393]
+>>
+endobj
+59 0 obj
+<</S /GoTo /D [29 0 R /FitR 487 382 500 354]
+>>
+endobj
+61 0 obj
+<</S /GoTo /D [29 0 R /FitR 473 382 486 354]
+>>
+endobj
+63 0 obj
+<</S /GoTo /D [29 0 R /FitR 298 401 331 355]
+>>
+endobj
+65 0 obj
+<</S /GoTo /D [29 0 R /FitR 298 439 344 403]
+>>
+endobj
+67 0 obj
+<</S /GoTo /D [29 0 R /FitR 324 355 338 333]
+>>
+endobj
+69 0 obj
+<</S /GoTo /D [29 0 R /FitR 332 406 369 359]
+>>
+endobj
+71 0 obj
+<</S /GoTo /D [29 0 R /FitR 354 355 367 335]
+>>
+endobj
+73 0 obj
+<</S /GoTo /D [29 0 R /FitR 373 449 394 437]
+>>
+endobj
+75 0 obj
+<</S /GoTo /D [29 0 R /FitR 346 460 370 430]
+>>
+endobj
+77 0 obj
+<</S /GoTo /D [29 0 R /FitR 451 437 470 411]
+>>
+endobj
+79 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+80 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+81 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+82 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 79 0 R
+    /KicadFontI 80 0 R
+    /KicadFontB 81 0 R
+    /KicadFontBI 82 0 R
+>>
+endobj
+5 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [391.358 348.469 436.039 439.603]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = HS1', cReturn: null }, { cName: 'Value = Heatsink', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Heatsink', cReturn: null }, { cName: 'ki_keywords = thermal heat temperature', cReturn: null }, { cName: 'Footprint = Heatsink:Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm', cReturn: null }, { cName: 'Description = Heatsink, StoneCold HS', cReturn: null }, { cName: 'Keywords = heatsink', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+6 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [468.548 331.461 503.735 345.67]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J2', cReturn: null }, { cName: 'Value = Conn_01x03_Pin', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical', cReturn: null }, { cName: 'Description = Through hole straight pin header, 1x03, 2.54mm pitch, single row', cReturn: null }, { cName: 'Keywords = Through hole pin header THT 1x03 2.54mm single row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+7 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [500.472 321.363 554.016 349.072]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = REF**', cReturn: null }, { cName: 'Value = MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Footprint = MountingHole:MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Description = Mounting Hole 3.2mm, no annular, M3', cReturn: null }, { cName: 'Keywords = mounting hole 3.2mm no annular m3', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+8 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [500.472 439.001 554.016 466.709]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = REF**', cReturn: null }, { cName: 'Value = MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Footprint = MountingHole:MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Description = Mounting Hole 3.2mm, no annular, M3', cReturn: null }, { cName: 'Keywords = mounting hole 3.2mm no annular m3', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+9 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [284.33 320.654 337.875 348.363]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = REF**', cReturn: null }, { cName: 'Value = MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Footprint = MountingHole:MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Description = Mounting Hole 3.2mm, no annular, M3', cReturn: null }, { cName: 'Keywords = mounting hole 3.2mm no annular m3', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [283.621 439.001 337.166 466.709]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = REF**', cReturn: null }, { cName: 'Value = MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Footprint = MountingHole:MountingHole_3.2mm_M3', cReturn: null }, { cName: 'Description = Mounting Hole 3.2mm, no annular, M3', cReturn: null }, { cName: 'Keywords = mounting hole 3.2mm no annular m3', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+11 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [401.648 379.083 438.059 408.989]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = U1', cReturn: null }, { cName: 'Value = TDA2003', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = 10W Car Radio Audio Amplifier, TO-220-5', cReturn: null }, { cName: 'ki_keywords = audio amplifier', cReturn: null }, { cName: 'Footprint = Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', cReturn: null }, { cName: 'Description = TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf', cReturn: 'http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf' }, { cName: 'Keywords = TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-1', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+12 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [505.346 363.032 579.189 420.186]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = RV1', cReturn: null }, { cName: 'Value = A50K', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Potentiometer', cReturn: null }, { cName: 'ki_keywords = resistor variable', cReturn: null }, { cName: 'Footprint = Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal', cReturn: null }, { cName: 'Description = 1110U1Q 1110TNP 1110U2A 1110U0Q Potentiometer, horizontal, Alps RK163 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf', cReturn: 'https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf' }, { cName: 'Keywords = Potentiometer horizontal Alps RK163 Single', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+13 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [339.286 329.874 352.276 357.568]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R7', cReturn: null }, { cName: 'Value = 1.0', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+14 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [373.791 449.95 401.485 463.308]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R6', cReturn: null }, { cName: 'Value = 10', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+15 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [370.467 329.874 383.457 357.568]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R5', cReturn: null }, { cName: 'Value = 150', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+16 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [452.282 390.67 479.976 403.32]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R4', cReturn: null }, { cName: 'Value = 6K8', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+17 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [488.105 393.653 501.094 421.348]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R3', cReturn: null }, { cName: 'Value = 15K', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+18 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [487.396 354.847 500.386 382.542]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R2', cReturn: null }, { cName: 'Value = 150', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+19 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [473.223 354.847 486.213 382.542]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R1', cReturn: null }, { cName: 'Value = 150', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+20 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [298.984 355.946 331.273 401.026]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = LS1', cReturn: null }, { cName: 'Value = Speaker', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Speaker', cReturn: null }, { cName: 'ki_keywords = speaker sound', cReturn: null }, { cName: 'Footprint = TerminalBlock:TerminalBlock_bornier-2_P5.08mm', cReturn: null }, { cName: 'Description = simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2', cReturn: null }, { cName: 'Keywords = terminal block bornier2', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+21 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [298.984 403.178 344.48 439.922]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = Barrel_Jack', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = DC Barrel Jack', cReturn: null }, { cName: 'ki_keywords = DC power barrel jack connector', cReturn: null }, { cName: 'Footprint = Connector_BarrelJack:BarrelJack_Horizontal', cReturn: null }, { cName: 'Description = DC Barrel Jack', cReturn: null }, { cName: 'Keywords = Power Jack', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+22 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [324.744 333.02 338.102 355.839]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C6', cReturn: null }, { cName: 'Value = 100nF', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*2.5mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf', cReturn: 'http://www.vishay.com/docs/28535/vy2series.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 2.5mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+23 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [332.291 359.489 369.283 406.615]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C5', cReturn: null }, { cName: 'Value = 1000uF/16V', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D12.5mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+24 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [354.508 335.005 367.866 355.272]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C4', cReturn: null }, { cName: 'Value = 2.2nF', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+25 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [373.961 437.194 394.228 449.843]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C3', cReturn: null }, { cName: 'Value = 2.2nF', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+26 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [346.389 430.639 370.777 460.898]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C2', cReturn: null }, { cName: 'Value = 100uF/25V', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D6.3mm_P2.50mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+27 0 obj
+<< /Type /Annot
+   /Subtype /Link
+   /Rect [451.263 411.93 470.252 437.087]
+   /Border [16 16 0]
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C1', cReturn: null }, { cName: 'Value = 1uF/50V', cReturn: null }, { cName: 'Sheetfile = ampli tda.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+29 0 R
+]
+/Count 1
+>>
+endobj
+83 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20230318215636)
+/Creator (PCBNEW)
+/Title (ampli tda-Edge_Cuts.pdf)
+>>
+endobj
+78 0 obj
+<< /Title (C1)
+   /Parent 32 0 R
+   /Next 76 0 R
+   /A 77 0 R
+>>
+endobj
+76 0 obj
+<< /Title (C2)
+   /Parent 32 0 R
+   /Next 74 0 R
+   /Prev 78 0 R
+   /A 75 0 R
+>>
+endobj
+74 0 obj
+<< /Title (C3)
+   /Parent 32 0 R
+   /Next 72 0 R
+   /Prev 76 0 R
+   /A 73 0 R
+>>
+endobj
+72 0 obj
+<< /Title (C4)
+   /Parent 32 0 R
+   /Next 70 0 R
+   /Prev 74 0 R
+   /A 71 0 R
+>>
+endobj
+70 0 obj
+<< /Title (C5)
+   /Parent 32 0 R
+   /Next 68 0 R
+   /Prev 72 0 R
+   /A 69 0 R
+>>
+endobj
+68 0 obj
+<< /Title (C6)
+   /Parent 32 0 R
+   /Next 34 0 R
+   /Prev 70 0 R
+   /A 67 0 R
+>>
+endobj
+34 0 obj
+<< /Title (HS1)
+   /Parent 32 0 R
+   /Next 66 0 R
+   /Prev 68 0 R
+   /A 33 0 R
+>>
+endobj
+66 0 obj
+<< /Title (J1)
+   /Parent 32 0 R
+   /Next 36 0 R
+   /Prev 34 0 R
+   /A 65 0 R
+>>
+endobj
+36 0 obj
+<< /Title (J2)
+   /Parent 32 0 R
+   /Next 64 0 R
+   /Prev 66 0 R
+   /A 35 0 R
+>>
+endobj
+64 0 obj
+<< /Title (LS1)
+   /Parent 32 0 R
+   /Next 62 0 R
+   /Prev 36 0 R
+   /A 63 0 R
+>>
+endobj
+62 0 obj
+<< /Title (R1)
+   /Parent 32 0 R
+   /Next 60 0 R
+   /Prev 64 0 R
+   /A 61 0 R
+>>
+endobj
+60 0 obj
+<< /Title (R2)
+   /Parent 32 0 R
+   /Next 58 0 R
+   /Prev 62 0 R
+   /A 59 0 R
+>>
+endobj
+58 0 obj
+<< /Title (R3)
+   /Parent 32 0 R
+   /Next 56 0 R
+   /Prev 60 0 R
+   /A 57 0 R
+>>
+endobj
+56 0 obj
+<< /Title (R4)
+   /Parent 32 0 R
+   /Next 54 0 R
+   /Prev 58 0 R
+   /A 55 0 R
+>>
+endobj
+54 0 obj
+<< /Title (R5)
+   /Parent 32 0 R
+   /Next 52 0 R
+   /Prev 56 0 R
+   /A 53 0 R
+>>
+endobj
+52 0 obj
+<< /Title (R6)
+   /Parent 32 0 R
+   /Next 50 0 R
+   /Prev 54 0 R
+   /A 51 0 R
+>>
+endobj
+50 0 obj
+<< /Title (R7)
+   /Parent 32 0 R
+   /Next 38 0 R
+   /Prev 52 0 R
+   /A 49 0 R
+>>
+endobj
+38 0 obj
+<< /Title (REF**)
+   /Parent 32 0 R
+   /Next 40 0 R
+   /Prev 50 0 R
+   /A 37 0 R
+>>
+endobj
+40 0 obj
+<< /Title (REF**)
+   /Parent 32 0 R
+   /Next 42 0 R
+   /Prev 38 0 R
+   /A 39 0 R
+>>
+endobj
+42 0 obj
+<< /Title (REF**)
+   /Parent 32 0 R
+   /Next 44 0 R
+   /Prev 40 0 R
+   /A 41 0 R
+>>
+endobj
+44 0 obj
+<< /Title (REF**)
+   /Parent 32 0 R
+   /Next 48 0 R
+   /Prev 42 0 R
+   /A 43 0 R
+>>
+endobj
+48 0 obj
+<< /Title (RV1)
+   /Parent 32 0 R
+   /Next 46 0 R
+   /Prev 44 0 R
+   /A 47 0 R
+>>
+endobj
+46 0 obj
+<< /Title (U1)
+   /Parent 32 0 R
+   /Prev 48 0 R
+   /A 45 0 R
+>>
+endobj
+32 0 obj
+<< /Title (Footprints)
+   /Parent 31 0 R
+   /Count -23
+   /First 78 0 R
+   /Last 46 0 R
+   /A 30 0 R
+>>
+endobj
+31 0 obj
+<< /Title (Page 1)
+   /Parent 84 0 R
+   /Count -1
+   /First 32 0 R
+   /Last 32 0 R
+   /A 30 0 R
+>>
+endobj
+84 0 obj
+<< /Type /Outlines
+   /Count 25
+   /First 31 0 R
+   /Last 31 0 R
+>>
+endobj
+85 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 84 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 86
+0000000000 65535 f 
+0000028493 00000 n 
+0000002542 00000 n 
+0000000015 00000 n 
+0000000192 00000 n 
+0000002655 00000 n 
+0000003638 00000 n 
+0000004740 00000 n 
+0000005526 00000 n 
+0000006312 00000 n 
+0000007097 00000 n 
+0000007884 00000 n 
+0000009385 00000 n 
+0000010627 00000 n 
+0000011908 00000 n 
+0000013187 00000 n 
+0000014468 00000 n 
+0000015747 00000 n 
+0000017028 00000 n 
+0000018309 00000 n 
+0000019590 00000 n 
+0000020612 00000 n 
+0000021587 00000 n 
+0000022770 00000 n 
+0000023872 00000 n 
+0000025088 00000 n 
+0000026304 00000 n 
+0000027402 00000 n 
+0000000211 00000 n 
+0000000385 00000 n 
+0000000570 00000 n 
+0000031015 00000 n 
+0000030895 00000 n 
+0000000617 00000 n 
+0000029247 00000 n 
+0000000681 00000 n 
+0000029442 00000 n 
+0000000745 00000 n 
+0000030316 00000 n 
+0000000809 00000 n 
+0000030416 00000 n 
+0000000873 00000 n 
+0000030516 00000 n 
+0000000937 00000 n 
+0000030616 00000 n 
+0000001001 00000 n 
+0000030814 00000 n 
+0000001065 00000 n 
+0000030716 00000 n 
+0000001129 00000 n 
+0000030219 00000 n 
+0000001193 00000 n 
+0000030122 00000 n 
+0000001257 00000 n 
+0000030025 00000 n 
+0000001321 00000 n 
+0000029928 00000 n 
+0000001385 00000 n 
+0000029831 00000 n 
+0000001449 00000 n 
+0000029734 00000 n 
+0000001513 00000 n 
+0000029637 00000 n 
+0000001577 00000 n 
+0000029539 00000 n 
+0000001641 00000 n 
+0000029345 00000 n 
+0000001705 00000 n 
+0000029150 00000 n 
+0000001769 00000 n 
+0000029053 00000 n 
+0000001833 00000 n 
+0000028956 00000 n 
+0000001897 00000 n 
+0000028859 00000 n 
+0000001961 00000 n 
+0000028762 00000 n 
+0000002025 00000 n 
+0000028681 00000 n 
+0000002089 00000 n 
+0000002196 00000 n 
+0000002311 00000 n 
+0000002423 00000 n 
+0000028553 00000 n 
+0000031130 00000 n 
+0000031214 00000 n 
+trailer
+<< /Size 86 /Root 85 0 R /Info 83 0 R >>
+startxref
+31342
+%%EOF
